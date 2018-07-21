@@ -10,7 +10,7 @@
 + As we know that most WMs do not warn us on low battery levels and this causes a lot of problems sometimes.
 + This also works on tty terminals without X if you use ssh or something.
 
-I hope this little and script will help you to solve those problems :)
+I hope this little script will help you to solve those problems :)
 
 you can customize things at **VARIABLES** section. Set your personal wave, mp3 file to play when your battery decreases to $CURRENT_BATTERY_VALUE. You can also use commands like i3-nagbar instead of ringing a sound or even *espeak* :v
 
