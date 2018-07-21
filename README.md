@@ -1,10 +1,9 @@
 # blow
 ### (low-battery notifier)
 
----
-
 ![meme](https://i.pinimg.com/736x/42/73/c4/4273c4aec0cfe16658d6adb9bfd61ef5.jpg)
 
+## Description
 + An experimental script for notifying **low battery** written in bash.
 + This script is actually created mostly for WM users.
 + As we know that most WMs do not warn us on low battery levels and this causes a lot of problems sometimes.
@@ -16,9 +15,7 @@ you can customize things at **VARIABLES** section. Set your personal wave, mp3 f
 
 You can also find more interesting sounds on [This Website](https://freesound.org) for free.
 
-### Installation
-
----
+## Installation
 
 installation? All you need to do is make it run at startup and enjoy!
 
